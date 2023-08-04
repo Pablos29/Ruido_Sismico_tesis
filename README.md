@@ -8,7 +8,7 @@
 Se requiere:
 
 - Python
-- ObsPy (y sus dependencias)
+- ObsPy
 - Pandas
 - NumPy
 - Matplotlib
