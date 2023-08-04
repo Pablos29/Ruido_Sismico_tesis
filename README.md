@@ -3,7 +3,7 @@
 
 
 ## Contenido
-*Este repositorio contiene los Jupyter Notebooks utilizados en mi tesis, los cuales han sido fundamentales para el procesamiento de ruido sísmico y la obtención de las figuras necesarias. El objetivo principal de este estudio es analizar la relación entre la actividad antropogénica y las variaciones en el ruido sísmico durante el período de confinamiento por COVID-19 en la zona metropolitana sur de Querétaro, México.*
+*Este repositorio contiene los Jupyter Notebooks utilizados en mi tesis, los cuales han sido fundamentales para el procesamiento de ruido sísmico y la obtención de las figuras necesarias. El objetivo principal de este estudio es analizar la relación entre la actividad antropogénica y las variaciones en el ruido sísmico durante el período de confinamiento por COVID-19 en la zona metropolitana de Querétaro, México.*
 
 Se requiere:
 
